@@ -1,1 +1,1 @@
-teste
+Simple CRUD CLI using node, typescript & memory storage
